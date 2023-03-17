@@ -13,3 +13,9 @@ Exercises outlined in NG book: The Complete Book on Angular
 ### ZoomIt
 * A tool for controlling zooming, drawing and recording when presenting screen.
 * After installing, go to options window to see how to use the tool.
+
+### angular-reddit
+* Run "ng build --configuration production"
+* Install "now" by running "npm install -g now"
+* Navigate to the dist/angular-reddit directory and run "now" to host application
+    * requires an account with vercel.com and an existing project to link to. If one does not exist then you should not attempt to link application so that a project will be created on vercel.com
